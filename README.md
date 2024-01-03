@@ -5,4 +5,8 @@ Unfortunately the user cannot use my login to connect to the TMU Host Database, 
 Other than that, everything will work perfect.
 
 Thanks again and I hope you enjoy!
+
+
+A picture of the main menu of the API.
+
 ![image](https://github.com/mohibamin/Moflix/assets/129216337/a0cc4cc6-0e16-48af-ae13-6bb17caa96f1)
